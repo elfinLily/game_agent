@@ -141,7 +141,7 @@ class GameEnvironment:
 def find_model_file():
     """모델 파일 찾기"""
     possible_files = [
-        "snake_ai_agent_final.pkl",
+        "models/snake_ai_final.pkl",
         "snake_q_agent.pkl", 
         "q_agent.pkl",
         "agent.pkl"

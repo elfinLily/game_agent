@@ -16,7 +16,8 @@ plotly==5.14.1            # 인터랙티브 그래프
 tqdm==4.65.0              # 진행률 표시
 
 # 실시간 스트리밍 (고급 단계)
-opencv-python==4.7.1     # 화면 캡처
+opencv-python>=4.7.0
+#opencv-python==4.7.1     # 화면 캡처
 streamlit==1.22.0         # 웹 인터페이스
 
 # pyobjc-framework-Cocoa 
